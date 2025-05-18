@@ -33,11 +33,6 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbar909&layout=compact&theme=radical)
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
 
 ### 📈 What I Love
 - Creating user-centric web experiences
