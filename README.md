@@ -29,11 +29,14 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 
 ## 📈 GitHub Stats & Activity
 
-![Profile Views](https://komarev.com/ghpvc/?username=akbar909&label=Profile%20views&color=0e75b6&style=flat)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbar909&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbar909&layout=compact&theme=radical)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38bdf8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 
 ### 📈 What I Love
