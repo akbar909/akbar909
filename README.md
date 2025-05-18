@@ -27,6 +27,15 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 - **Tools & Cloud:** Git, GitHub, Vercel, Firebase, Netlify, Figma
 - **Analytics & Data:** Excel, Power BI, Python (Pandas, Matplotlib, SeaBorn, Scikit-learn)
 
+## 📈 GitHub Stats & Activity
+
+![Profile Views](https://komarev.com/ghpvc/?username=akbar909&label=Profile%20views&color=0e75b6&style=flat)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbar909&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akbar909&layout=compact&theme=radical)
+
+
 ### 📈 What I Love
 - Creating user-centric web experiences
 - Exploring real-time communication systems
