@@ -78,5 +78,5 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 
 ### 📫 Let’s Connect
 - Portfolio: https://ghulamakbarportfolio.vercel.app
-- LinkedIn: https://www.linkedin.com/in/ghulam-akbar-01182126b
+- LinkedIn: https://www.linkedin.com/in/ghulamakbar1
 - Email: jamaliakbar909@gmail.com
