@@ -6,7 +6,8 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 
 ## 🧑‍💻 Developer Internship  
 **Web Developer Intern**
-Verior, Hyderabad
+
+*Verior, Hyderabad*
 📅 *Jul 2025 – Aug 2025*
 
 - Built responsive web applications from Figma designs, including a Pizza Delivery App and a Real-Time Chat App
@@ -15,6 +16,7 @@ Verior, Hyderabad
 - Recognized as Best Performer for consistency, teamwork, and high-quality work
   
 **MERN Stack/Next.js Developer Intern** 
+
 *Thinkfeat Software Solution, Hyderabad*  
 📅 *Sept 2024 – Feb 2025*
 
