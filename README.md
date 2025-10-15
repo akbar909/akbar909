@@ -5,7 +5,7 @@
 I'm a passionate full-stack developer with a focus on creating modern, scalable, and real-time web applications. I enjoy turning ideas into interactive products and exploring the intersection between data and development.
 
 ## 🧑‍💻 Developer Internship  
-*Web Developer Intern*
+**Web Developer Intern**
 Verior, Hyderabad
 📅 *Jul 2025 – Aug 2025*
 
@@ -13,6 +13,7 @@ Verior, Hyderabad
 - Collaborated with teammates and led projects to ensure timely delivery
 - Enhanced frontend performance and user experience using React.js
 - Recognized as Best Performer for consistency, teamwork, and high-quality work
+  
 **MERN Stack/Next.js Developer Intern** 
 *Thinkfeat Software Solution, Hyderabad*  
 📅 *Sept 2024 – Feb 2025*
