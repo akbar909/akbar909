@@ -8,6 +8,7 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 **Web Developer Intern**
 
 *Verior, Hyderabad*
+
 📅 *Jul 2025 – Aug 2025*
 
 - Built responsive web applications from Figma designs, including a Pizza Delivery App and a Real-Time Chat App
