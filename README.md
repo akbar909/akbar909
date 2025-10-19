@@ -19,7 +19,7 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 **MERN Stack/Next.js Developer Intern** 
 
 *Thinkfeat Software Solution, Hyderabad*  
-📅 *Sept 2024 – Feb 2025*
+📅 *Sept 2024 – Nov 2024*
 
 - Developed and maintained responsive web applications using React.js and Next.js, improving user engagement by 30%
 - Collaborated with senior developers to implement RESTful APIs with Node.js and Express, handling 1000+ daily requests
