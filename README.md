@@ -6,6 +6,7 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 
 ## 🧑‍💻 Developer Internship
 **Data Science & Analytics**
+
 *Liaquat University of Medical & Health Sciences (LUMHS), Jamshoro*
 
 📅 *Sep 2025 – Oct 2025*
