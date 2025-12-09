@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Ghulam Akbar
 
-### MERN Stack & Next.js Developer | Data Analytics Enthusiast
+### MERN Stack & Next.js Developer | Data Science & Analytics
 
 I'm a passionate full-stack developer with a focus on creating modern, scalable, and real-time web applications. I enjoy turning ideas into interactive products and exploring the intersection between data and development.
 
@@ -36,7 +36,7 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 ### 🧠 Tech Stack & Tools
 - **Frontend:** React, Next.js, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB, REST APIs, WebSockets, Nodemailer
-- **Tools & Cloud:** Git, GitHub, Vercel, Firebase, Netlify, Figma
+- **Tools & Cloud:** Docker, Git, GitHub, Vercel, Netlify, Figma
 - **Analytics & Data:** Excel, Power BI, Python (Pandas, Matplotlib, SeaBorn, Scikit-learn)
 
 
@@ -89,6 +89,6 @@ I'm a passionate full-stack developer with a focus on creating modern, scalable,
 - Applying data to drive insights and better design decisions
 
 ### 📫 Let’s Connect
-- Portfolio: https://ghulamakbarportfolio.vercel.app
+- Portfolio: https://ghulamakbar.netlify.app
 - LinkedIn: https://www.linkedin.com/in/ghulamakbar1
 - Email: jamaliakbar909@gmail.com
