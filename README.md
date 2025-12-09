@@ -4,7 +4,19 @@
 
 I'm a passionate full-stack developer with a focus on creating modern, scalable, and real-time web applications. I enjoy turning ideas into interactive products and exploring the intersection between data and development.
 
-## 🧑‍💻 Developer Internship  
+## 🧑‍💻 Developer Internship
+**Data Science & Analytics**
+*Liaquat University of Medical & Health Sciences (LUMHS), Jamshoro*
+
+📅 *Sep 2025 – Oct 2025*
+
+- Worked with diverse datasets focusing on data cleaning, preprocessing, and quality improvement
+- Created data visualizations to support decision-making and communicate insights clearly
+- Prepared analytical reports summarizing key findings and trends
+- Utilized Excel, SQL, Power BI, and statistical techniques for efficient data analysis
+- Collaborated with the IT team to streamline analytical workflows and improve reporting accuracy
+- Demonstrated strong professionalism, consistency, and dedication throughout the internship
+
 **Web Developer Intern**
 
 *Verior, Hyderabad*
